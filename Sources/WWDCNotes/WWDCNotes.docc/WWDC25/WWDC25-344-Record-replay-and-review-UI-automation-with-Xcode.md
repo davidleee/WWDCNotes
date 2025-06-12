@@ -8,11 +8,19 @@ Learn to record, run, and maintain XCUIAutomation tests in Xcode. Replay your XC
    @CallToAction(url: "https://developer.apple.com/videos/play/wwdc2025/344", purpose: link, label: "Watch Video (24 min)")
 
    @Contributors {
-      @GitHubUser(<replace this with your GitHub handle>)
+      @GitHubUser(davidleee)
    }
 }
 
-😱 "No Overview Available!"
+## Key Takeaways
+- 
+- 
+- 
 
-Be the hero to change that by watching the video and providing notes! It's super easy:
- [Learn More…](https://wwdcnotes.com/documentation/wwdcnotes/contributing)
+## UI automation overview
+
+
+## Prepare your app for automation
+## Record your interactions
+## Replay in multiple configurations
+## Review videos and results
